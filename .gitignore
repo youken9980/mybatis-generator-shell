@@ -1,0 +1,3 @@
+!mybatis-generator-core-*.jar
+!mysql-connector-java-*-bin.jar
+main/
